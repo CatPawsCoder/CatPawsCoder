@@ -40,4 +40,14 @@ My name is Daria. I am a Bachelor Computer Science student at the University of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
  </div>
   
-  
+  ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CatPawsCoder&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatPawsCoder)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
