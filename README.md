@@ -19,9 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="100"/>
 </div>
 
-<div id ="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=CatPawsCoder&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ### Hi there 👋
 ---
