@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ---
-### :woman_technologist: About Me :
-My name is Daria. I am a Bachelor Computer Science student at the University of London (Goldsmiths).
-- :telescope: Currently I completed Web Development course, learned HTML, CSS, Javascript.
-- :zap: In my free time, I go through virtual internships at TheForage <a href="https://www.theforage.com/profile/qjYeY56dR8CQAeLmQ?ref=qjYeY56dR8CQAeLmQ"> </a>
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
